@@ -6,8 +6,14 @@ int main()
 {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-    int A, B;
+    int X;
+    long long Y;
 
-    cin >> A, B;
+    cin >> X >> Y;
+
+    cout << X << " + " << Y << " = " << X + Y << "\n";
+    cout << X << " * " << Y << " = " << X * Y << "\n";
+    cout << X << " - " << Y << " = " << X - Y << "\n";
+
     return 0;
 }
