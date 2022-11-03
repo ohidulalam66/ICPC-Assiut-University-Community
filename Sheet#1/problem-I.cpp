@@ -1,6 +1,6 @@
 // I. Welcome for you with Conditions
 
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 int main()
 {

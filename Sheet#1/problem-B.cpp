@@ -1,6 +1,6 @@
 // B. Basic Data Types
 
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 int main()
 {

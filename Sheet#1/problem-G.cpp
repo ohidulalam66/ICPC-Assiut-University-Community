@@ -4,7 +4,7 @@ Given a number N. Print the summation of the numbers that is between 1 and N (in
 ∑i=1Ni
  */
 
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 int main()
 {

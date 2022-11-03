@@ -1,6 +1,6 @@
 // H. Two numbers
 
-#include <iostream>
+#include <bits/stdc++.h>
 #include <cmath>
 using namespace std;
 

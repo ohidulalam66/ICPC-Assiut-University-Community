@@ -1,6 +1,6 @@
 // A. Say Hello With C++
 
-#include <iostream>
+#include <bits/stdc++.h>
 #define max_size 100
 
 using namespace std;

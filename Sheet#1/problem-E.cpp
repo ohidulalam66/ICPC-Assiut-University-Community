@@ -1,7 +1,6 @@
 // E. Area of a Circle
 
-#include <iostream>
-#include <iomanip>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main()
