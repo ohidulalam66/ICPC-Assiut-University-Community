@@ -13,7 +13,12 @@ int main()
 
     for (i = 1; i <= N; i++)
     {
-        if (i % 2 == 0)
+        if (N == 1)
+        {
+            cout << -1 << "\n";
+        }
+
+        else if (i % 2 == 0)
             cout << i << "\n";
     }
 
