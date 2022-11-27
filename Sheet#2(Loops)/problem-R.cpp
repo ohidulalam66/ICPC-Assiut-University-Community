@@ -10,8 +10,8 @@ int main()
 
     while (true)
     {
-        int n, m, i;
         long long sum = 0;
+        int n, m, i;
         cin >> n >> m;
 
         if ((n <= 0) || m <= 0)
@@ -25,8 +25,7 @@ int main()
                 cout << i << " ";
                 sum += i;
             }
-            cout << "sum =" << sum << "\n"
-                 << "\n";
+            cout << "sum =" << sum << "\n";
         }
     }
 }
