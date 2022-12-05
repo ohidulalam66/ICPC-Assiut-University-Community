@@ -29,5 +29,3 @@ int main()
         }
     }
 }
-
-// Not Solve in program
